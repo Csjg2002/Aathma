@@ -11,16 +11,16 @@ It was made for a live brief college assignment.
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="https://imgpile.com/i/9BWKhF" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/i/9BWKhF" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/i/9BWtaw" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/i/9BWtaw" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/i/9BWMzi" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/i/9BWMzi" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/i/9BWJ3u" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/i/9BWJ3u" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
 </p>
