@@ -14,13 +14,13 @@ It was made for a live brief college assignment.
 <img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/i/9BWtaw" height="80%" width="80%" alt="Aathma"/>
+<img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/i/9BWMzi" height="80%" width="80%" alt="Aathma"/>
+<img src="https://imgpile.com/images/9BWMzi.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/i/9BWJ3u" height="80%" width="80%" alt="Aathma"/>
+<img src="https://imgpile.com/images/9BWJ3u.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
 </p>
