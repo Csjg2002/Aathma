@@ -14,7 +14,7 @@ It was made for a live brief college assignment.
 <img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Aathma"/>
+<img src="https://imgpile.com/images/9BWtaw.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
 <img src="https://imgpile.com/images/9BWMzi.png" height="80%" width="80%" alt="Aathma"/>
