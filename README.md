@@ -11,7 +11,7 @@ It was made for a live brief college assignment.
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="https://imgpile.com/i/9BWKhF" height="80%" width="80%" alt="Aathma"/>
+<img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
 <img src="https://imgpile.com/i/9BWtaw" height="80%" width="80%" alt="Aathma"/>
