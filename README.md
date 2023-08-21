@@ -1,10 +1,7 @@
 <h1>Aathma</h1>
 
 <h2>Description</h2>
-Aathma is a 3rd person, dark fantasy Hack & Slash game mixed with a 3D platformer. The game is thematically focused around grief and the overcoming of it.
-
-
-It was made for a live brief.
+Aathma is a 3rd person, dark fantasy Hack & Slash game mixed with a 3D platformer. The game is thematically focused around grief and the overcoming of it. It was made for a live brief.
 
 <br />
 
