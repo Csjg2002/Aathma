@@ -11,13 +11,10 @@ Aathma is a 3rd person, dark fantasy Hack & Slash game mixed with a 3D platforme
 <img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/9BWtaw.png" height="80%" width="80%" alt="Aathma"/>
-<br />
-<br />
 <img src="https://imgpile.com/images/9BWMzi.png" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/9BWJ3u.png" height="80%" width="80%" alt="Aathma"/>
+<img src="https://github.com/Csjg2002/Aathma/assets/131481041/7a980911-4e00-40ca-b800-d2b591ce17c6" height="80%" width="80%" alt="Aathma"/>
 <br />
 <br />
 </p>
