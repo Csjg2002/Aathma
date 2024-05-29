@@ -5,7 +5,7 @@ Aathma is a 3rd person, dark fantasy Hack & Slash 3D platformer game thematicall
 
 It was made for a live brief.
 
-I was the solo programmer on this project.
+I was the solo programmer for this project.
 
 <br />
 
